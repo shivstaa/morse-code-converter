@@ -2,9 +2,7 @@
 //
 
 /*
-* Author: Shiv Shah
-* Date: 10/09/2021
-* Description: Morse Code to English/English to Morse Code Converter
+* Creator: Shiv Shah
 * Usage: <exe> <input file> <-mc|-e> <output file>
 */
 
